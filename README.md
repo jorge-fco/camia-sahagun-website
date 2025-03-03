@@ -1,1 +1,7 @@
-# camia-sahagun-website
+# Camia Sahagún
+
+## Architecture
+- Home
+- Cart
+- Login
+- Privacy
